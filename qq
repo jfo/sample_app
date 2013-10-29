@@ -1,0 +1,226 @@
+commit 1ebe726f5fa6f81248db1603bfb20dd65090c12a
+Author: urthbound <jeffowler@gmail.com>
+Date:   Sat Oct 26 17:54:02 2013 -0400
+
+    done again
+
+commit 8d60a210ce20aa1235cbffad49f3f200fbae6712
+Author: urthbound <jeffowler@gmail.com>
+Date:   Sat Oct 26 17:49:36 2013 -0400
+
+    Finished, but tests need some love
+
+commit 1cc433e7a537c862d85048d8a35c48447837e5e1
+Author: urthbound <jeffowler@gmail.com>
+Date:   Fri Oct 25 16:51:45 2013 -0400
+
+    why no worky
+
+commit 2028949c6ca7f8f256dd3617020a338ad631abba
+Author: urthbound <jeffowler@gmail.com>
+Date:   Fri Oct 25 15:12:22 2013 -0400
+
+    added user microposts
+
+commit a27887f5bdb8ded8eb21d75781afa97e4dd592ce
+Author: urthbound <jeffowler@gmail.com>
+Date:   Fri Oct 25 14:28:05 2013 -0400
+
+    mid way through end of 10th chapter
+
+commit 91d733fccefb21642d4e6185d08149e56fae7604
+Author: urthbound <jeffowler@gmail.com>
+Date:   Thu Oct 24 16:48:45 2013 -0400
+
+    ended at listing 10.39
+
+commit ed611801c1667c4c4ffddb7550c7a87b6ddc6e61
+Author: urthbound <jeffowler@gmail.com>
+Date:   Thu Oct 24 15:01:04 2013 -0400
+
+    halfway done with penultimate chapter
+
+commit 69370795de5f9a7830409a7175cdfc9bb5ceacd5
+Author: urthbound <jeffowler@gmail.com>
+Date:   Thu Oct 24 14:21:26 2013 -0400
+
+    finished micropost relational thing
+
+commit d0accf302580bdcc7b532281384a49b63aa18147
+Author: urthbound <jeffowler@gmail.com>
+Date:   Wed Oct 23 21:05:08 2013 -0400
+
+    sandbox with gabe
+
+commit 2320f9df488995e4f45110f97f17243d5a770849
+Author: urthbound <jeffowler@gmail.com>
+Date:   Mon Oct 21 16:22:04 2013 -0400
+
+    Finish user edit, update, index, and destroy actions
+
+commit 7ae6fb41a1c6c0f3701376b4cde42657394e5099
+Author: urthbound <jeffowler@gmail.com>
+Date:   Wed Oct 16 23:05:15 2013 -0400
+
+    djfiojaiof
+
+commit bcb25ec61b54d92633cafbf5d298a9e26fe8ec15
+Author: urthbound <jeffowler@gmail.com>
+Date:   Wed Oct 16 15:03:00 2013 -0400
+
+    halfway through chapter 9
+
+commit e0c5dfde62aa3e62f7cc818909c4fd417f23a238
+Author: urthbound <jeffowler@gmail.com>
+Date:   Wed Oct 16 11:01:08 2013 -0400
+
+    middle of the users chapter
+
+commit cc09a3a15aff2f658747c2cd52a9494b58d8f5b2
+Author: urthbound <jeffowler@gmail.com>
+Date:   Mon Oct 14 15:25:45 2013 -0400
+
+    motherfucking rspec goddamn
+
+commit a58a2a08fd7ba1275658f8a774e3a233fefba420
+Author: urthbound <jeffowler@gmail.com>
+Date:   Mon Oct 14 01:00:18 2013 -0400
+
+    end of chapter 8
+
+commit 746a029fed8f53231968523d106192bb038c4bbd
+Author: urthbound <jeffowler@gmail.com>
+Date:   Mon Oct 14 00:36:37 2013 -0400
+
+    almost done with chapter 8
+
+commit 7328eaba2646ebbd91875f07f37ab4ebc77687c9
+Author: urthbound <jeffowler@gmail.com>
+Date:   Sun Oct 13 21:03:06 2013 -0400
+
+    beginning of chapter 8
+
+commit 95c9ff5f01896551b8d03376fa9e0fb5e136c190
+Author: urthbound <jeffowler@gmail.com>
+Date:   Sun Oct 13 20:48:10 2013 -0400
+
+    add SSL in production
+
+commit fdf8520bfe814dcd03b62beaa7a844251f98b1a6
+Author: urthbound <jeffowler@gmail.com>
+Date:   Sun Oct 13 20:41:11 2013 -0400
+
+    end of chapter 7
+
+commit eef873cb0afdd1cdf61530f11686221a29d3318f
+Author: urthbound <jeffowler@gmail.com>
+Date:   Sun Oct 13 20:40:02 2013 -0400
+
+    end of chapet 7
+
+commit 4a5fe86304d7fbdd60de42db04a64b5cb6334ebb
+Author: urthbound <jeffowler@gmail.com>
+Date:   Tue Oct 8 15:40:33 2013 -0400
+
+    adding users
+
+commit 4ec47865dae0bbac54f02a3114062e2217d790a4
+Author: urthbound <jeffowler@gmail.com>
+Date:   Mon Oct 7 23:58:00 2013 -0400
+
+    make a basic user model (including secure passwords)
+
+commit d38b3299ff1c42cf540162058815d8b10c0df012
+Author: urthbound <jeffowler@gmail.com>
+Date:   Mon Oct 7 23:49:41 2013 -0400
+
+    derp
+
+commit ede9c07853077a2dd9972ae80d0aa95524d371ef
+Author: urthbound <jeffowler@gmail.com>
+Date:   Mon Oct 7 23:27:38 2013 -0400
+
+    dfjioa
+
+commit ae550eac0cc869f20f14d498c1740dfed9047f61
+Merge: 06ade7d 2c6d606
+Author: urthbound <jeffowler@gmail.com>
+Date:   Mon Oct 7 23:26:15 2013 -0400
+
+    Merge branch 'master' of https://github.com/urthbound/sample_app
+    
+    Conflicts:
+    	app/models/user.rb
+    	db/schema.rb
+
+commit 06ade7d98aa4af758a695ff27a6d826b434f3fd6
+Author: urthbound <jeffowler@gmail.com>
+Date:   Mon Oct 7 23:25:40 2013 -0400
+
+    derp
+
+commit 2c6d606dcadb2525f1c769a6a13f3759db7e09e9
+Author: urthbound <jeffowler@gmail.com>
+Date:   Sat Oct 5 16:07:54 2013 -0400
+
+    middle of chapter 5
+
+commit 2d0e2fc8e73d7629dd37e945676f988c757fa314
+Author: urthbound <jeffowler@gmail.com>
+Date:   Sat Oct 5 13:06:57 2013 -0400
+
+    middle of the databast chapter
+
+commit 20f356b56ff9d54586d9a90c99b38c0749b45730
+Author: urthbound <jeffowler@gmail.com>
+Date:   Wed Oct 2 15:30:01 2013 -0400
+
+    end of chapter 5
+
+commit 052445b3ba0210542a8f6dca324152c02b4d9299
+Author: urthbound <jeffowler@gmail.com>
+Date:   Wed Oct 2 15:02:19 2013 -0400
+
+    halfway through chap 5
+
+commit 8bdb36ef7cd41d191c299e3bd5361347b73196fd
+Author: urthbound <jeffowler@gmail.com>
+Date:   Mon Sep 30 18:16:11 2013 -0400
+
+    end of chapter 4
+
+commit 683e7c48ac7f53f4e4b474f33b07cf12bb6172e7
+Author: urthbound <jeffowler@gmail.com>
+Date:   Mon Sep 30 17:33:31 2013 -0400
+
+    ended chapter 3
+
+commit d8f5599b3083a278c2fb52fcb290ef6b69bcd0aa
+Author: urthbound <jeffowler@gmail.com>
+Date:   Mon Sep 30 16:47:36 2013 -0400
+
+    Finish static pages
+
+commit f47fbe9f25a16a6235f52f9581df6d254c760705
+Author: urthbound <jeffowler@gmail.com>
+Date:   Mon Sep 30 14:51:45 2013 -0400
+
+    add a staticpages controller
+
+commit 2e5e8edbd857d6a6a3ab9e7bb77220e805ee109e
+Author: urthbound <jeffowler@gmail.com>
+Date:   Mon Sep 30 14:34:46 2013 -0400
+
+    imrpove redmorp
+
+commit 1042e16d85541a2fabee97ca7f236982d23807ee
+Author: urthbound <jeffowler@gmail.com>
+Date:   Mon Sep 30 14:33:55 2013 -0400
+
+    Improve the README
+
+commit 1b4e625b268efc559ef6ac8b1e920b0a6bade72c
+Author: urthbound <jeffowler@gmail.com>
+Date:   Mon Sep 30 14:23:59 2013 -0400
+
+    initial
